@@ -1,3 +1,4 @@
+/run/initialize
 /vis/open OGL
 /vis/drawVolume
 /vis/viewer/set/viewpointVector 1 1 1
